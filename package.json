@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "licens": "MIT",
   "scripts": {
     "buld": "gatsby build",
     "develop": "gatsby develop",
-    "serve": "gatsby serve && gatsby build"
+    "serve": "gatsby build && gatsby serve"
   },
   "keywords": [],
   "author": "",
